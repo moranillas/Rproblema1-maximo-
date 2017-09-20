@@ -5,5 +5,6 @@
         echo"<center>";
 				echo "<h1 style='margin-top:200px;border:20px inset green;width:400px'>NUMERO MAXIMO=$max</h1>";
         echo"</center>";
+        //comentarioasdf
 
 ?>
